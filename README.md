@@ -9,15 +9,15 @@ We provide curated metrics, logs, traces collection, cloudwatch dashboard, alert
 
 ## Single EKS Cluster AWS Native Observability Accelerator
 
-![AWSNative-Architecture](https://github.com/aws-observability/cdk-aws-observability-accelerator/blob/main/docs/images/cloud-native-arch.png?raw=true)
+![AWSNative-Architecture](https://github.com/dragonknight919/cdk-aws-observability-accelerator/blob/main/docs/images/cloud-native-arch.png?raw=true)
 
 ## Single EKS Cluster Open Source Observability Accelerator
 
-![OpenSource-Architecture](https://raw.githubusercontent.com/aws-observability/cdk-aws-observability-accelerator/811ec42307d41f35f2fec95f2f2b8a20bddc7646/docs/images/CDK_Architecture_diagram.png)
+![OpenSource-Architecture](https://raw.githubusercontent.com/dragonknight919/cdk-aws-observability-accelerator/811ec42307d41f35f2fec95f2f2b8a20bddc7646/docs/images/CDK_Architecture_diagram.png)
 
 ## Patterns
 
-The individual patterns can be found in the [`lib`](https://github.com/aws-observability/cdk-aws-observability-accelerator/tree/main/lib) directory.  Most of the patterns are self-explanatory, for some more complex examples please use this guide and docs/patterns directory for more information.
+The individual patterns can be found in the [`lib`](https://github.com/dragonknight919/cdk-aws-observability-accelerator/tree/main/lib) directory.  Most of the patterns are self-explanatory, for some more complex examples please use this guide and docs/patterns directory for more information.
 
 ## Usage
 
@@ -141,7 +141,7 @@ Updating npm: `sudo n stable` where stable can also be a specific version above 
 1. Clone the `cdk-aws-observability-accelerator` repository
 
 ```sh
-git clone https://github.com/aws-observability/cdk-aws-observability-accelerator.git
+git clone https://github.com/dragonknight919/cdk-aws-observability-accelerator.git
 ```
 
 PS: If you are contributing to this repo, please make sure to fork the repo, add your changes and create a PR against it.
